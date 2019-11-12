@@ -1,0 +1,6 @@
+C:\git\Students\2019\Shkareva\Stack\Stack\bin\Debug\Stack.dll
+C:\git\Students\2019\Shkareva\Stack\Stack\bin\Debug\Stack.pdb
+C:\git\Students\2019\Shkareva\Stack\Stack\obj\Debug\Stack.csprojAssemblyReference.cache
+C:\git\Students\2019\Shkareva\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\git\Students\2019\Shkareva\Stack\Stack\obj\Debug\Stack.dll
+C:\git\Students\2019\Shkareva\Stack\Stack\obj\Debug\Stack.pdb
